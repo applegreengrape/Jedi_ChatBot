@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "facebook_messenger_bot-executor",
+    "name": "facebook_messenger_bot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "2wyq8697d7",
+    "module": "bot"
+  }
+}
