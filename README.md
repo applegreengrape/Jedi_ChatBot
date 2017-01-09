@@ -13,4 +13,5 @@ AWS SDK for Node.js (Optional)
 4. Deploy ChatBot
 
 $ claudia create --region us-east-1 --api-module bot
+
 $ claudia update --configure-fb-bot 
