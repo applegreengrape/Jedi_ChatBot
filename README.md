@@ -14,7 +14,7 @@
 
 1. Create a AWS user grou with AWSLambaFullAccess+AdministratorAccess+AmazonAPIGatewayAdministrator
 2. Conrigure Claudia.JS with AWS - (N.B. it is easiler to use aws sdk node command line to write the aws credentials to messgener folder)
-
+e.g. creating/updating aws credentials
 ```
 $ aws configure
 AWS Access Key ID [None]: accesskey
