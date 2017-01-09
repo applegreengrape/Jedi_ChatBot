@@ -17,6 +17,5 @@
 3. Build chat bot - adding the core javascript (here is bot.js)
 4. Deploy ChatBot
 
-$ claudia create --region us-east-1 --api-module bot
-
-$ claudia update --configure-fb-bot 
+```$ claudia create --region us-east-1 --api-module bot
+$ claudia update --configure-fb-bot ```
