@@ -18,4 +18,7 @@
 4. Deploy ChatBot
 
 ```$ claudia create --region us-east-1 --api-module bot
-$ claudia update --configure-fb-bot ```
+
+
+
+$ claudia update --configure-fb-bot```
