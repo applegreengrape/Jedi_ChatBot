@@ -5,7 +5,7 @@
     "region": "us-east-1"
   },
   "api": {
-    "id": "2wyq8697d7",
+    "id": "<your aws api id>",
     "module": "bot"
   }
 }
